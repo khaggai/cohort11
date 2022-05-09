@@ -1,0 +1,48 @@
+* {
+    text-align: center;
+    color: blue;
+}
+
+/* Can you confirm that this the lime green we intended to use */
+p {
+    color: limegreen;
+    /* Comments can go here too */
+}
+
+body {
+    background-image: url("/img/dr-strange.jpg");
+    background-repeat: no-repeat;
+}
+
+/*
+asdfasdf
+asdfasdf
+adsfasdfadsf
+asdfasdf
+*/
+img {
+    width: 900px;
+}
+
+.even {
+    color: brown;
+    font-size: 25px;
+}
+
+.odd {
+    color: purple;
+    font-size: 25px;
+}
+
+.left-aligned {
+    text-align: left;
+}
+
+
+
+#third {
+    text-align: right;
+    border-style: dotted;
+    border-color: darkorange;
+    margin-bottom: 50px;
+}
